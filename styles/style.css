@@ -105,10 +105,6 @@
   background-color: #f2f2f2;
 }
 
-.events:hover {
-  color: #1f69c9;
-}
-
 .events__content {
   flex-basis: 580px;
 }
@@ -168,6 +164,10 @@
 .events__more {
   color: #2f80ed;
   text-decoration: none;
+}
+
+.events__more:hover {
+  color: #1f69c9;
 }
 
 .events__cover {
